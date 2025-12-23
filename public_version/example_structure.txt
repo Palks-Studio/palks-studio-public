@@ -32,7 +32,7 @@
 │
 ├── assets/
 │   ├── css/
-│   │   └── style.css                        → Global stylesheet (FR) / Feuille de styles globale (EN)
+│   │   └── style.css                        → Feuille de styles globale (FR) / Global stylesheet (EN)
 │   └── img/                                 → Images et visuels (FR) / Images and visuals (EN)
 │
 ├── robots.txt                               → Règles pour moteurs de recherche (FR) / Search engine directives (EN)
