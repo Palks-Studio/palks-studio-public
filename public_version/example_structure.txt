@@ -8,7 +8,6 @@
 │   ├── studio.html                          → Présentation de Palks Studio
 │   ├── approche.html                        → Approche et principes de travail
 │   ├── ressources.html                      → Ressources techniques
-│   ├── static-site.html                     → Socle de site statique
 │   ├── chatbot-flask.html                   → Chatbot Flask auto-hébergé
 │   ├── documentation_sans_dependances.html  → Documentation sans dépendances inutiles
 │   ├── fondations.html                      → Fondations techniques
@@ -24,7 +23,6 @@
 │   ├── studio.html                          → Studio overview
 │   ├── approach.html                        → Method & principles
 │   ├── resources.html                       → Technical resources
-│   ├── static-site.html                     → Professional static foundation
 │   ├── flask-chatbot.html                   → Self-hosted Flask chatbot
 │   ├── no-unnecessary-dependencies.html     → Documentation without unnecessary dependencies
 │   ├── foundations.html                     → Technical foundations
@@ -34,14 +32,14 @@
 │
 ├── assets/
 │   ├── css/
-│   │   └── style.css                        → Feuille de styles globale (FR) / Global stylesheet (EN)
+│   │   └── style.css                        → Global stylesheet (FR) / Feuille de styles globale (EN)
 │   └── img/                                 → Images et visuels (FR) / Images and visuals (EN)
 │
 ├── robots.txt                               → Règles pour moteurs de recherche (FR) / Search engine directives (EN)
 ├── sitemap.xml                              → Plan du site pour indexation (FR) / Sitemap for indexing (EN)
 │
-├── LICENCE_FR.md                            → Licence officielle – référence
-├── LICENSE_EN.md                            → Traduction informative
+├── LICENCE.md                               → Conditions d’utilisation et cadre légal
+├── LICENSE.md                               → Terms of use and legal framework
 │
 └── README_DEPLOY.txt                        → Déploiement et utilisation (FR) / Deployment & usage (EN)
 ```
